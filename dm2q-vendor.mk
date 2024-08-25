@@ -12,6 +12,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/dm2q/proprietary/vendor/etc/audio/sku_kalama/mixer_paths.xml:$(TARGET_COPY_OUT_VENDOR)/etc/audio/sku_kalama/mixer_paths.xml \
     vendor/samsung/dm2q/proprietary/vendor/etc/display/qdcm_calib_data_DM2_S6E3FAC_AMB655AY01.json:$(TARGET_COPY_OUT_VENDOR)/etc/display/qdcm_calib_data_DM2_S6E3FAC_AMB655AY01.json \
     vendor/samsung/dm2q/proprietary/vendor/etc/dolby/dax-default.xml:$(TARGET_COPY_OUT_VENDOR)/etc/dolby/dax-default.xml \
+    vendor/samsung/dm2q/proprietary/vendor/etc/init/init.vendor.onebinary.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/init.vendor.onebinary.rc \
     vendor/samsung/dm2q/proprietary/vendor/etc/init/init.vendor.rilcommon.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/init.vendor.rilcommon.rc \
     vendor/samsung/dm2q/proprietary/vendor/etc/init/vendor.samsung.rilchip.qcom.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/vendor.samsung.rilchip.qcom.rc \
     vendor/samsung/dm2q/proprietary/vendor/etc/nfc/libnfc-nxp_RF.conf:$(TARGET_COPY_OUT_VENDOR)/etc/nfc/libnfc-nxp_RF.conf \
