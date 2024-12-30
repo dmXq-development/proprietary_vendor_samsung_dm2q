@@ -33,7 +33,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/dm2q/proprietary/vendor/etc/sensors/config/kailua_lsm6dso_0_1.json:$(TARGET_COPY_OUT_VENDOR)/etc/sensors/config/kailua_lsm6dso_0_1.json \
     vendor/samsung/dm2q/proprietary/vendor/etc/sensors/config/kailua_lsm6dso_0_2.json:$(TARGET_COPY_OUT_VENDOR)/etc/sensors/config/kailua_lsm6dso_0_2.json \
     vendor/samsung/dm2q/proprietary/vendor/etc/sensors/config/kailua_stk3a9x_0.json:$(TARGET_COPY_OUT_VENDOR)/etc/sensors/config/kailua_stk3a9x_0.json \
-    vendor/samsung/dm2q/proprietary/vendor/etc/wifi/qca6490/WCNSS_qcom_cfg.ini:$(TARGET_COPY_OUT_VENDOR)/etc/wifi/qca6490/WCNSS_qcom_cfg.ini \
     vendor/samsung/dm2q/proprietary/vendor/firmware/CAMERA_ICP.b20:$(TARGET_COPY_OUT_VENDOR)/firmware/CAMERA_ICP.b20 \
     vendor/samsung/dm2q/proprietary/vendor/firmware/CAMERA_ICP.mbn:$(TARGET_COPY_OUT_VENDOR)/firmware/CAMERA_ICP.mbn \
     vendor/samsung/dm2q/proprietary/vendor/firmware/CAMERA_ICP.mdt:$(TARGET_COPY_OUT_VENDOR)/firmware/CAMERA_ICP.mdt \
